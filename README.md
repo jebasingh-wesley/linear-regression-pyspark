@@ -23,3 +23,10 @@ m = slop
 
 multiple linear regression(it has the multiple col linear regression)
 *********************************************************************
+
+
+
+
+Problem Statement: Build a predictive Model for the shipping company, to find an estimate of how many Crew members a ship requires.
+Let’s make the Linear Regression Model, predicting Crew members
+linear regression
